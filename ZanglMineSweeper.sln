@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34818.151
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZanglMineSweeper", "ZanglMineSweeper\ZanglMineSweeper.csproj", "{380DDAE1-7E35-432F-AD32-8BF0AEA8553D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZanglMineSweeper.Tests", "ZanglMineSweeper.Tests\ZanglMineSweeper.Tests.csproj", "{8BEE05F8-53BA-412E-8686-9D1A88218520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{380DDAE1-7E35-432F-AD32-8BF0AEA8553D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380DDAE1-7E35-432F-AD32-8BF0AEA8553D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380DDAE1-7E35-432F-AD32-8BF0AEA8553D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380DDAE1-7E35-432F-AD32-8BF0AEA8553D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BEE05F8-53BA-412E-8686-9D1A88218520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BEE05F8-53BA-412E-8686-9D1A88218520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BEE05F8-53BA-412E-8686-9D1A88218520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BEE05F8-53BA-412E-8686-9D1A88218520}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D22B0D2E-53E2-47FD-97A2-C6F290E18B10}
+	EndGlobalSection
+EndGlobal
